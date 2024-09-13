@@ -3,7 +3,7 @@
 🌱 I’m currently learning Full-Stack Development<br>
 💻 Currently working as an Online Data Analyst @ TELUS International<br>
 🎶 I love music, and I play piano, guitar, and drums<br>
-🕸️ Visit my website! harrisonjohns.me
+🕸️ [Visit my website!](harrisonjohns.me)
 
 Connect with me!<br/> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harrison-johns) 
 
