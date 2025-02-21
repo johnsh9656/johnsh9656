@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Harrison
 👨‍🎓 Software Engineering @ McMaster University<br>
 🌱 I’m currently learning Full-Stack Development<br>
-💻 Currently working as an Online Data Analyst @ TELUS International<br>
+💻 Currently working as a Sofware Developer @ Jetson Infinity & PathtoCareer<br>
 🎶 I love music, and I play piano, guitar, and drums<br>
 🕸️ [Visit my website!](https://harrisonjohns.me)
 
