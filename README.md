@@ -1,8 +1,10 @@
 ## 👋 Hi, I'm Harrison
-👨‍🎓 Software Engineering @ McMaster University<br>
-🌱 I’m currently learning Full-Stack Development<br>
-💻 Currently working as a Software Developer @ Jetson Infinity<br>
-🎶 I love music, and I play piano, guitar, and drums<br>
+👨‍🎓 Software Engineering @ McMaster University <br/>
+💼 Software Developer @ Jetson Infinity <br/>
+🤺 Varsity Sabre Fencer @ McMaster <br/>
+💾 Open Source Lead @ McMaster GDSC <br/>
+🎸 Playing guitar, drums, and piano <br/>
+✅ Searching for a CO-OP starting Summer/Fall 2026! <br/>
 🕸️ [Visit my website!](https://harrisonjohns.me)
 
 Connect with me!<br/> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harrison-johns) 
